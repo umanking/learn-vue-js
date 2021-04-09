@@ -41,6 +41,8 @@ sudo npm install -g @vue/cli
 [Vue CLI 3.x]
 - vue create '프로젝트 폴더위치' 
 - vue create 'vue-cli'
+- cd vue-cli
+- yarn serve / npm run serve 
 
 
 
