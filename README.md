@@ -46,3 +46,5 @@ sudo npm install -g @vue/cli
 
 
 
+- [이벤트 버블링, 캡쳐링](https://joshua1988.github.io/web-development/javascript/event-propagation-delegation/)
+
