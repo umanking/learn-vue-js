@@ -1,5 +1,16 @@
 # learn vue js
 
+## summary(overview) 
+- reactivity 
+- instance, new Vue({})
+- component
+- component 통신
+  - props (하위로 전달)
+  - event (상위로 전달)
+- HTTP 통신 라이브러리 
+- template 문법 
+- vue cli로 시작하기 
+- 싱글 파일 컴포넌트
 
 ## chrome extension 
 - [vue.js devtools](https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd/related?hl=en)
